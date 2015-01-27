@@ -1,0 +1,92 @@
+body{
+    background-color: dimgrey;
+
+}
+#Zoekmachine{
+    display: block;
+    font-family: Raleway;
+    position: relative;
+    margin: 0 auto;
+    width: 1000px;
+    height: 500px;
+    text-align: center;
+    position: relative;
+    border-radius: 10px;
+    background-color: lightgrey;
+    top:50px;
+
+}
+#SearchEngine{
+    position: relative;
+    top:20px;
+}
+#Test{
+    position: absolute;
+    text-align: center;
+    top:100px;
+    background-color: lightgrey;
+    width: 1000px;
+    height:auto;
+
+}
+#Noah {
+    font-family: Raleway;
+    position: relative;
+    margin: 0 auto;
+    font-size: 25px;
+    padding-top: 10px;
+}
+h2{
+    font-size: 15px;
+
+}
+#Naam{
+   position: relative;
+   right: 200px;
+
+}
+
+#Leeftijd{
+    position: relative;
+    right: 200px;
+    top: 100px;
+
+
+
+}
+#Geslacht{
+    position: relative;
+    bottom: 125px;
+    left: 200px;
+
+
+}
+#Email{
+    position: relative;
+    bottom:100px;
+    right:200px;
+
+
+}
+#Telefoon{
+    position: relative;
+    bottom: 165px;
+    left:200px;
+
+
+}
+#Registratie{
+    position: relative;
+    bottom: 165px;
+    left:200px;
+
+}
+#Vrienden{
+    position: relative;
+    bottom: 150px;
+
+}
+#Lijst{
+    position: relative;
+    border: 1px solid black;
+}
