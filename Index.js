@@ -67,10 +67,9 @@ function content(obj){
             "<div id='Telefoon'><h2>Telefoon Nummer : </h2>" + obj[i].phone + "<br></div>" +
 
             // Geregistreeerd
-            "<div id='Registratie'><h2>Geregistreed :</h2> " + obj[i].registered+ "<br></div> " +
+            "<div id='Registratie'><h2>Geregistreed :</h2> " + obj[i].registered+ "<br></div> " ;
 
 
-            "<div id='Vrienden'><h2>Vrienden :</h2> " + obj[i].friends[name]+"</div><hr> " ;
 
 
 
@@ -82,10 +81,6 @@ function content(obj){
         }//for loop
 
 
-        //obj[1].friends[name] + "<br>"+
-       // obj[1].friends[2] + "<br>"+
-       // obj[1].friends[3] + "<br>";
-       //document.getElementById("Test").innerHTML =
 
 
 
